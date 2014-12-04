@@ -1,0 +1,7 @@
+## Interface: 60000
+## Title: CursorTooltip
+## Notes: Keeps the tooltip near cursor
+## Author: Darep
+## X-Category: Tooltip
+
+CursorTooltip.lua
